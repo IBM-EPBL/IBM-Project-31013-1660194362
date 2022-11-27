@@ -43,9 +43,6 @@ The all-time record for single-day ridership occured on September 9,2022, when t
 138,372 rides.
 ```
 
-# **🎯Skills Required:**
-IBM Cloud, Python, IBM Cognos, IBM Watson Data Analytics platform, Jupyter Notebook.
-
 
 <div align="center">
 <h2>From the college of an Bharathidasan Engineering College<br></h2>
