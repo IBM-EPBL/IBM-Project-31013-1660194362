@@ -49,10 +49,9 @@
 </body>
 </html>
 
-# **📜PROJECT DESCRIPTION:**
-```html
+# 📜PROJECT DESCRIPTION:
 This project is designed so as to be used by Bike Rental Company specializing in renting bikes to customers. It is an online system through which customers can view available bikes, register, view profile and book bike.The advancement in Information Technology and intemet penetration has greatly enhanced various business processes and communication between companies services provider and their customers of which bike rental industry is not left out. This E-Bike Rental system is developed to provide the following services .Enhance Business Processes To be able to use internet technology to project the rental company to the global world instead of limiting their services to their local domain alone,thus increase their return on investment
-```
+<hr>
 ## PROJECT DESIGN & PLANNING
 # 🧩 IDEATION PHASE
 
