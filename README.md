@@ -4,6 +4,7 @@
 </a>
  
 # IBM-Project-31013-1660194362
+# WELCOME TO OUR PROJECT!!!
 # A New Hint to Transportation-Analysis of the NYC Bike Share System
  
 <img src="https://s3files.core77.com/blog/images/2013/07/CitiBike-yeahigifedit.gif" align="right" width="240" height="175"/>
@@ -30,19 +31,63 @@
 | Team Member 2 |**AJAY A**|
 | Team Member 3 |**MADHAN R**|
 
+<h2>TEAM DETAILS</h2>
+
+<table>
+  <tr>
+    <th>TEAM ID</th>
+    <th>COLLEGE NAME</th>
+    <th>DEPARTMENT</th>
+  </tr>
+  <tr>
+    <td>PNT2022TMID39501</td>
+    <td>BHARATHIDASAN ENGINEERING COLLEGE</td>
+    <td>COMPUTER SCIENCE AND ENGINEERING </td>
+  </tr>
+ 
+</table>
+</body>
+</html>
+
 # **📜PROJECT DESCRIPTION:**
 ```html
-NYC Bike share system is a privately owned public bicycle sharing system serving
-the New York City boroughs of the Bronx, Brooklyn, Manhattan, and other cities.
-The owner of the NYC bike is Lyft.
-First proposed in 2008 by the New York City Department  Of Transportation, City Bike's
-scheduled 2011 opening was delayed by hurricane Sandy and technology problems. 
-In October 2017 the system reached of a total of 50 million rides and in July 2020 the system
-reached 100 million rides. As of July 2019, there are 169,000 annual subscribers.
-The all-time record for single-day ridership occured on September 9,2022, when the system had
-138,372 rides.
+This project is designed so as to be used by Bike Rental Company specializing in renting bikes to customers. It is an online system through which customers can view available bikes, register, view profile and book bike.The advancement in Information Technology and intemet penetration has greatly enhanced various business processes and communication between companies services provider and their customers of which bike rental industry is not left out. This E-Bike Rental system is developed to provide the following services .Enhance Business Processes To be able to use internet technology to project the rental company to the global world instead of limiting their services to their local domain alone,thus increase their return on investment
 ```
+## PROJECT DESIGN & PLANNING
+# 🧩 IDEATION PHASE
 
+      Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
+- [x] Literature Survey
+- [x] Problem Statement
+- [x] Empathy Map
+- [x] Brainstorm
+- [x] Top 3 Ideas
+
+# 📝DESIGN PHASE 
+      In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
+
+#  🏷️DESIGN PHASE 01 
+- [x] Proposed Solution
+- [x] Problem-Solution Fit
+- [x] Solution Architecture
+
+ # 🏷️DESIGN PHASE 02 
+- [x] Solution Requirements
+- [x] Customer Journey Map
+- [x] Data Flow Diagrams
+- [x] Technology Stack
+
+# 🧨PLANNING PHASE
+- [x] Milestone and Activity List
+- [x] Sprint Delivery plan
+
+# 🧨PROJECT DEVELOPMENT 
+- [x] SPRINT 01
+- [x] SPRINT 02
+- [x] SPRINT 03
+- [x] SPRINT 04
+
+<hr>
 
 <div align="center">
 <h2>From the college of an Bharathidasan Engineering College<br></h2>
